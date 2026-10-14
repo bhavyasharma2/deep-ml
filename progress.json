@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:06:10.309Z",
+  "generated_at": "2026-10-14T15:19:38.856Z",
   "items": {
     "math:38": {
       "kind": "math",
@@ -48,6 +48,19 @@
       "path": "problems/0044-leaky-relu-activation-function",
       "first_solved_at": "2026-10-14T15:06:09.098Z",
       "last_pushed_at": "2026-10-14T15:06:09.098Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-10-14T15:19:34.664Z",
+      "last_pushed_at": "2026-10-14T15:19:34.664Z",
       "language": "python",
       "lines": 8
     }
