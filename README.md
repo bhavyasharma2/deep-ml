@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 13 problems · 1 labs · 1 math
+**16** solved · 14 problems · 1 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-10-14 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-10-15 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-14 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-15 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-14 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-15 | [solution](problems/0219-derivative-of-softmax) |
 
