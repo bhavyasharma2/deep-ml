@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:26:45.723Z",
+  "generated_at": "2026-10-15T11:51:19.501Z",
   "items": {
     "math:38": {
       "kind": "math",
@@ -100,6 +100,19 @@
       "path": "problems/0217-derivatives-of-activation-functions",
       "first_solved_at": "2026-10-15T11:26:45.210Z",
       "last_pushed_at": "2026-10-15T11:26:45.210Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-10-15T11:51:18.998Z",
+      "last_pushed_at": "2026-10-15T11:51:18.998Z",
       "language": "python",
       "lines": 26
     }
